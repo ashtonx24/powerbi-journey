@@ -6,6 +6,6 @@ It includes:
 - `.pbix` files for dashboards and reports
 - Raw and cleaned datasets
 - Notes on learning paths, approach, and reflections
-- Practice material for certifications, including Microsoft Power BI Data Analyst Associate
+- Practice material for certifications, including Microsoft Power BI Data Analyst Associate (future)
 
 No fancy classes. No expensive bootcamps. Just grit, curiosity, and relentless consistency.
